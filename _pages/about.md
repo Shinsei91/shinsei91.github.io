@@ -36,7 +36,7 @@ author_profile: true
 
 ---
 
-## 学会発表等
+## 口頭発表・ポスター発表
 
 -  "惑星の軌道共鳴における一般相対論効果のPINNsによる予測", 第3回TREFOIL研究会 (2023, 9)
 -  "Physics-informed Neural Networks による天体軌道予測と銀河系中心への応用", 日本天文学会2024年春季年会 (2024, 3)
