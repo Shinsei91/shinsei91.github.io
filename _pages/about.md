@@ -10,10 +10,12 @@ redirect_from:
 -->
 
 ---
-layout: home
-title: "ShinseiEyama"
 permalink: /
+title: "Home"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 ## 自己紹介
