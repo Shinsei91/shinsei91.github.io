@@ -18,13 +18,12 @@ author_profile: true
 
 ## 自己紹介
 
-研究内容
 
 興味・関心：
 
-- 〇〇（例: 宇宙論パラメータ推定）
-- 〇〇（例: 物理インフォームドニューラルネットワーク（PINNs））
-- 〇〇（例: 医用画像解析）
+- 
+- 
+- 
 
 ---
 
@@ -32,17 +31,21 @@ author_profile: true
 
 研究テーマについて
 
-- **テーマA** : 〇〇についての解析と応用
-- **テーマB** : 〇〇を用いたデータ解析手法の開発
+- 
+- 
 
 ---
 
-## 論文・発表
+## 学会発表等
 
-- 学会発表 :
+-  "惑星の軌道共鳴における一般相対論効果のPINNsによる予測", 第3回TREFOIL研究会 (2023, 9)
+-  "Physics-informed Neural Networks による天体軌道予測と銀河系中心への応用", 日本天文学会2024年春季年会 (2024, 3)
 -  "Physics-informed Neural Networks による天体軌道予測と銀河系中心への応用", 第5回TREGOIL研究会 (2024, 9)
+-  "PINNs analysis of the dynamics of S-stars in the Galactic center and the constraints on the cosmological parameter Λ", Breaking New Ground in Supernova Physics 2025 (2025, 2)
 
+<!--
 （※ 詳細は[こちら](/publications/)）
+-->
 
 ---
 
