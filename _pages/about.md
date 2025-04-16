@@ -1,3 +1,4 @@
+<!--
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -6,6 +7,58 @@ redirect_from:
   - /about/
   - /about.html
 ---
+-->
+
+---
+layout: home
+title: "ShinseiEyama"
+permalink: /
+author_profile: true
+---
+
+## 自己紹介
+
+研究内容
+
+興味・関心：
+
+- 〇〇（例: 宇宙論パラメータ推定）
+- 〇〇（例: 物理インフォームドニューラルネットワーク（PINNs））
+- 〇〇（例: 医用画像解析）
+
+---
+
+## 研究テーマ
+
+研究テーマについて
+
+- **テーマA** : 〇〇についての解析と応用
+- **テーマB** : 〇〇を用いたデータ解析手法の開発
+
+---
+
+## 論文・発表
+
+- 学会発表 :
+-  "Physics-informed Neural Networks による天体軌道予測と銀河系中心への応用", 第5回TREGOIL研究会 (2024, 9)
+
+（※ 詳細は[こちら](/publications/)）
+
+---
+
+<!--
+## その他の活動
+
+- **TA（ティーチング・アシスタント）**
+- **学会・研究会の参加**
+- **〇〇プロジェクトへの参加**
+
+---
+-->
+
+※このページは現在作成中です。順次情報を追加していきます。
+
+
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
