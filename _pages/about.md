@@ -40,7 +40,7 @@ redirect_from:
 
 -  "惑星の軌道共鳴における一般相対論効果のPINNsによる予測", 第3回TREFOIL研究会 (2023, 9)
 -  "Physics-informed Neural Networks による天体軌道予測と銀河系中心への応用", 日本天文学会2024年春季年会 (2024, 3)
--  "Physics-informed Neural Networks による天体軌道予測と銀河系中心への応用", 第5回TREGOIL研究会 (2024, 9)
+-  "Physics-informed Neural Networks による天体軌道予測と銀河系中心への応用", 第5回TREFOIL研究会 (2024, 9)
 -  "PINNs analysis of the dynamics of S-stars in the Galactic center and the constraints on the cosmological parameter Λ", Breaking New Ground in Supernova Physics 2025 (2025, 2)
 
 <!--
