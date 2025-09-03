@@ -43,6 +43,13 @@ redirect_from:
 -  "Physics-informed Neural Networks による天体軌道予測と銀河系中心への応用", 第5回TREFOIL研究会 (2024, 9)
 -  "PINNs analysis of the dynamics of S-stars in the Galactic center and the constraints on the cosmological parameter Λ", Breaking New Ground in Supernova Physics 2025 (2025, 2)
 
+
+---
+
+## 論文
+
+- **Shinsei Eyama**, and Youhei Masada, "Constraining the Cosmological Constant from Stellar Orbits Around Sgr A* Using Physics-Informed Neural Networks", https://arxiv.org/abs/2508.19719
+
 <!--
 （※ 詳細は[こちら](/publications/)）
 -->
