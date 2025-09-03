@@ -27,22 +27,22 @@ redirect_from:
 
 ## 経歴
 
-- 2019,3 長崎県立上五島高等学校 卒業
-- 2019,4 福岡大学理学部物理科学科 入学
-- 2023,3 福岡大学理学部物理科学科 卒業
-- 2023,4 福岡大学大学院理学研究科応用物理学専攻 博士課程前期 入学
-- 2025,3 福岡大学大学院理学研究科応用物理学専攻 博士課程前期 卒業
-- 2025,4 一橋大学大学院ソーシャル・データサイエンス研究科 博士後期課程 入学
+- 2019.3 長崎県立上五島高等学校 卒業
+- 2019.4 福岡大学理学部物理科学科 入学
+- 2023.3 福岡大学理学部物理科学科 卒業
+- 2023.4 福岡大学大学院理学研究科応用物理学専攻 博士課程前期 入学
+- 2025.3 福岡大学大学院理学研究科応用物理学専攻 博士課程前期 卒業
+- 2025.4 一橋大学大学院ソーシャル・データサイエンス研究科 博士後期課程 入学
 
 
 ---
 
 ## 口頭発表・ポスター発表
 
--  "惑星の軌道共鳴における一般相対論効果のPINNsによる予測", 第3回TREFOIL研究会 (2023, 9)
--  "Physics-informed Neural Networks による天体軌道予測と銀河系中心への応用", 日本天文学会2024年春季年会 (2024, 3)
--  "Physics-informed Neural Networks による天体軌道予測と銀河系中心への応用", 第5回TREFOIL研究会 (2024, 9)
--  "PINNs analysis of the dynamics of S-stars in the Galactic center and the constraints on the cosmological parameter Λ", Breaking New Ground in Supernova Physics 2025 (2025, 2)
+-  "惑星の軌道共鳴における一般相対論効果のPINNsによる予測", 第3回TREFOIL研究会 (2023,9)
+-  "Physics-informed Neural Networks による天体軌道予測と銀河系中心への応用", 日本天文学会2024年春季年会 (2024,3)
+-  "Physics-informed Neural Networks による天体軌道予測と銀河系中心への応用", 第5回TREFOIL研究会 (2024,9)
+-  "PINNs analysis of the dynamics of S-stars in the Galactic center and the constraints on the cosmological parameter Λ", Breaking New Ground in Supernova Physics 2025 (2025,2)
 
 
 ---
