@@ -49,7 +49,7 @@ redirect_from:
 
 ## 論文
 
-- **Shinsei Eyama**, and Youhei Masada, "Constraining the Cosmological Constant from Stellar Orbits Around Sgr A* Using Physics-Informed Neural Networks", https://arxiv.org/abs/2508.19719
+- **Shinsei Eyama**, and Youhei Masada, "Constraining the Cosmological Constant from Stellar Orbits Around Sgr A* Using Physics-Informed Neural Networks", <a href="https://arxiv.org/abs/2508.19719" target="_blank">別のサイトに移動</a>
 
 <!--
 （※ 詳細は[こちら](/publications/)）
